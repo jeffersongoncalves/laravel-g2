@@ -1,6 +1,6 @@
 <div class="filament-hidden">
 
-![Laravel G2](https://raw.githubusercontent.com/jeffersongoncalves/laravel-g2/master/art/jeffersongoncalves-laravel-g2.png)
+![Laravel G2](https://raw.githubusercontent.com/jeffersongoncalves/laravel-g2/main/art/jeffersongoncalves-laravel-g2.png)
 
 </div>
 
